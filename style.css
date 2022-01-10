@@ -2,15 +2,17 @@
 /* CSS Document */
 body {
 	font-family: 'Poppins', sans-serif !important;
-	background-color: #e6ded3;
+	background-color: #f0ebe4;
 }
 h1 {
 	font-weight: 600;
 	margin: 36px;
+	width: fit-content;
 }
 
 p {
 	line-height: 1.5;
+	width: fixed;
 }
 .center {
 	margin: auto;
