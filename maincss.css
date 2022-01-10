@@ -1,6 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
-
+body {
+	font-family: 'Poppins', sans-serif;
+}
 
 #myVideo {
   width: 100vw;
