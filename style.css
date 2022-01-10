@@ -2,6 +2,10 @@
 /* CSS Document */
 body {
 	font-family: 'Poppins', sans-serif !important;
+	background-color: #d8cec0;
+}
+h1 {
+	font-weight: 600;
 }
 
 #myVideo {
