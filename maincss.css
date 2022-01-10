@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 body {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Poppins', sans-serif !important;
 }
 
 #myVideo {
@@ -125,14 +125,14 @@ img[data-pop-img] {
 	cursor: pointer;
 }
 
-img[data-pop-img]:click {
+/* img[data-pop-img]:click {
 	body {
 		add-class: .imgPopup;
 	}
 	.str-ModalBack {
 		render: "{|poppedUpImage}";
 	}
-}
+} */
 
 @component poppedUpImage {
 	html {
@@ -140,12 +140,12 @@ img[data-pop-img]:click {
 	}
 }
 
-body.imgPopup .str-ModalBack:click {
+/* body.imgPopup .str-ModalBack:click {
 	render: "";
 	body {
 		remove-class: .imgPopup;
 	}
-}
+} */
 
 /* Ok work */
 
