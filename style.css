@@ -3,7 +3,7 @@
 body {
 	font-family: 'Poppins', sans-serif !important;
 	background-color: #f0ebe4;
-	background-position: 90% 90%;
+	background-origin: content-box;
 }
 h1 {
 	font-weight: 600;
