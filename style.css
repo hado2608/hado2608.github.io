@@ -2,7 +2,8 @@
 /* CSS Document */
 body {
 	font-family: 'Poppins', sans-serif !important;
-	background-color: #f0ebe4;
+	background-color: #F2E4F4;
+	opacity: 0.16;
 	background-origin: content-box;
 }
 h1 {
